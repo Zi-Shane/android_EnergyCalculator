@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EnergyCalculator</string>
+    <string-array name="sports">
+        <item name="walk">慢走</item>
+        <item name="swim">游泳</item>
+        <item name="run">跑步</item>
+        <item name="bike">自行車</item>
+        <item name="badminton">羽毛球</item>
+        <item name="golf">高爾夫</item>
+    </string-array>
+</resources>
